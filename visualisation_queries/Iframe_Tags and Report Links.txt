@@ -1,0 +1,57 @@
+Iframe Tages Of the Reports:
+
+Trending Tags:
+
+https://datastudio.google.com/open/1rk5KahYKYr41ztkJCiNi_tRf8gj1d8zv
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/1rk5KahYKYr41ztkJCiNi_tRf8gj1d8zv/page/t5F8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Recipe By Time Required to cook:
+
+https://datastudio.google.com/open/1vwJW8KfMhyco9vxliX0ZcJ8eP4HFM3hC
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/11amejcDc1QggxshmjE21Eqfnp3aQVrqc/page/XOX8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Ingredient Popularity:
+
+https://datastudio.google.com/open/1zZXd5CQBkmYIO92vrd-Tkcv-kEkaZWn2
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/1zZXd5CQBkmYIO92vrd-Tkcv-kEkaZWn2/page/cFG8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Recipe Popularity:
+
+https://datastudio.google.com/open/1MBWG1ha1E2ElPTcwmZuuB2_fR8WOYGid
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/1MBWG1ha1E2ElPTcwmZuuB2_fR8WOYGid/page/0P77" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Instant Recipes:
+
+https://datastudio.google.com/open/1fD8Msu-xxNM-j6T5YdDlOrX5sk43K3zV
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/1fD8Msu-xxNM-j6T5YdDlOrX5sk43K3zV/page/VkG8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+--------------------------------------------------------------------------------------------------------------------------------
+Recipe Contributors:
+
+https://datastudio.google.com/open/1tjpA8-NcJ5ZPTzz1D5_TxgURWxqDqUnP
+
+<iframe width="600" height="250" src="https://datastudio.google.com/embed/reporting/1tjpA8-NcJ5ZPTzz1D5_TxgURWxqDqUnP/page/9QG8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Healthy Posted Recipes:
+
+https://datastudio.google.com/open/13a13StBhaLG8HCaUc15V5wyVSy-dkW7a
+
+<iframe width="600" height="231" src="https://datastudio.google.com/embed/reporting/13a13StBhaLG8HCaUc15V5wyVSy-dkW7a/page/FLG8" frameborder="0" style="border:0" allowfullscreen></iframe>
+
